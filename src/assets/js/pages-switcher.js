@@ -7,7 +7,7 @@
 
 var PageTransitions = (function ($, options) {
 "use strict";
-    var defaultStartPage = "home",
+    var defaultStartPage = "inicio",
         sectionsContainer = $(".subpages"),
         isAnimating = false,
         endCurrentPage = true,
